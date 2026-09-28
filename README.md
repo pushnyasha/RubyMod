@@ -1,5 +1,5 @@
 ![RubyMod icon](./src/main/resources/assets/rubymod/icon.png)
-# RubyMod - Minecraft: Java Edition mod
+# Pushnyasha's RubyMod - Minecraft: Java Edition mod
 Welcome to official RubyMod github repository. The latest versions of the mod that haven't yet been released on Modrinth you can found here (see the "Artifacts" file in Actions).
 ## The mod is currently in active development. Here's what's been done so far:
 * Items: ruby, ruby powder
